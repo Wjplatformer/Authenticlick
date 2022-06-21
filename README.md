@@ -1,2 +1,2 @@
-# click-authenticate
-A clicking-based password
+# Authenticlick
+A authentication system using clicking patterns
